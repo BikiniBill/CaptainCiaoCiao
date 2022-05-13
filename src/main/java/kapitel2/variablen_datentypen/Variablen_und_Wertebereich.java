@@ -1,4 +1,4 @@
-package ImperativeSprachkonzepte.Variablen_und_Datentypen;
+package kapitel2.variablen_datentypen;
 
 import java.util.Locale;
 

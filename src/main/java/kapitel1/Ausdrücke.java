@@ -1,4 +1,4 @@
-package Ausdrücke;
+package kapitel1;
 
 public class Ausdrücke {
     public static void main(String[] args) {
